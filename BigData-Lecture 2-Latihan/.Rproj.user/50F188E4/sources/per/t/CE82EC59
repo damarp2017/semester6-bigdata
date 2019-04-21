@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554818235859.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3746024074",
+    "id" : "CE82EC59",
+    "lastKnownWriteTime" : 1554822782,
+    "last_content_update" : 1554822782,
+    "path" : "D:/Kuliah/Semester 6/Big Data/BigData-Lecture 2-Latihan/Script1.R",
+    "project_path" : "Script1.R",
+    "properties" : {
+        "cursorPosition" : "12,69",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

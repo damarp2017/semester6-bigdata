@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551840451116.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "34D937FB",
+    "lastKnownWriteTime" : 13229843603652705,
+    "last_content_update" : 1551840451116,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C292900",
+        "caption" : "list_berita",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=list_berita&cache_key=C292900",
+        "displayedObservations" : 20,
+        "environment" : "",
+        "object" : "list_berita",
+        "preview" : 0,
+        "totalObservations" : 20,
+        "variables" : 2
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

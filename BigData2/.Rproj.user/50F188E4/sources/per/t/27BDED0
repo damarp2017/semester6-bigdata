@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554819981271.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "27BDED0",
+    "lastKnownWriteTime" : 28992373577089071,
+    "last_content_update" : 1554819981271,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "77B8DAEB",
+        "caption" : "sortir_gaji",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sortir_gaji&cache_key=77B8DAEB",
+        "displayedObservations" : "999",
+        "environment" : "",
+        "object" : "sortir_gaji",
+        "preview" : "0",
+        "totalObservations" : "999",
+        "variables" : "4"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

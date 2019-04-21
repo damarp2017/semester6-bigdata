@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555386975133.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2407602452",
+    "id" : "4B15F8F3",
+    "lastKnownWriteTime" : 1555393046,
+    "last_content_update" : 1555393046643,
+    "path" : "D:/Kuliah/Semester 6/Big Data/Quiz/Script1.R",
+    "project_path" : "Script1.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

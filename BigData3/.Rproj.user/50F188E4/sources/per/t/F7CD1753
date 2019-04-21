@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554862347029.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2262757243",
+    "id" : "F7CD1753",
+    "lastKnownWriteTime" : 1554864405,
+    "last_content_update" : 1554864405096,
+    "path" : "D:/Kuliah/Semester 6/Big Data/BigData3/Script1.R",
+    "project_path" : "Script1.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
