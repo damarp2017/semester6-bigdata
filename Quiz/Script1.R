@@ -28,7 +28,7 @@ user_melihat_tiap_tanggal[user_melihat_tiap_tanggal==0]<-"-"
 
 
 #nomer 4
-melihat2 = melihat[,.(User, Time, Product)]
+melihat2 = melihat[,.(User, Time, Product), by = User]
 Frek_user_beli = pesan[,.(User,Frek_beli = length(Action)), by=Product]
 Frek_user_lihat = melihat[,.(User,Frek_lihat = length(Action)), by = Product]
 datamerge = merge(Frek_user_lihat, Frek_user_beli, by="Product", all=TRUE)
